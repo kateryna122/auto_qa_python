@@ -1,0 +1,2 @@
+class GithubUI:
+    pass
